@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "nome": "Manete xbox branco",
+        "imagem": "/imgs/games/videogames1.png",
+        "tipo": "Games",
+        "preco": 300,
+        "cor": "branco",
+        "marca": "xbox"
+    },
+    {
+        "id": 2,
+        "nome": "Manete xbox preto",
+        "imagem": "/imgs/games/videogame2.png",
+        "tipo": "Games",
+        "preco": 360,
+        "cor": "preto",
+        "marca": "xbox"
+    },
+    {
+        "id": 3,
+        "nome": "Manete xbox azul",
+        "imagem": "/imgs/games/videogame3.png",
+        "tipo": "Games",
+        "preco": 380,
+        "cor": "azul",
+        "marca": "xbox"
+    },
+    {
+        "id": 4,
+        "nome": "Manete xbox verde",
+        "imagem": "/imgs/games/videogame4.png",
+        "tipo": "Games",
+        "preco": 480,
+        "cor": "verde",
+        "marca": "xbox"
+    },
+    {
+        "id": 5,
+        "nome": "Manete ps5 vermelha",
+        "imagem": "/imgs/games/videogame5.png",
+        "tipo": "Games",
+        "preco": 5.800,
+        "cor": "vermelho",
+        "marca": "playstation"
+    },
+    {
+        "id": 6,
+        "nome": "Playstation 5 branco",
+        "imagem": "/imgs/games/manetePs5.png",
+        "tipo": "Games",
+        "preco": 5.800,
+        "cor": "branco",
+        "marca": "playstation"
+    },
+    {
+        "id": 7,
+        "nome": "Iphone 13 preto 64gb",
+        "imagem": "/imgs/smartphones/iphone1.png",
+        "tipo": "Smartphone",
+        "preco": 3.000,
+        "cor": "preto",
+        "marca": "apple"
+    },
+    {
+        "id": 8,
+        "nome": "Iphone 13 rosa 64gb",
+        "imagem": "/imgs/smartphones/iphone2.png",
+        "tipo": "Smartphone",
+        "preco": 2.999,
+        "cor": "rosa",
+        "marca": "apple"
+    },
+    {
+        "id": 9,
+        "nome": "Iphone 15 pro 64gb",
+        "imagem": "/imgs/smartphones/iphone3.png",
+        "tipo": "Smartphone",
+        "preco": 5.999,
+        "cor": "preto",
+        "marca": "apple"
+    },
+    {
+        "id": 10,
+        "nome": "Macbook pro preto",
+        "imagem": "/imgs/notebooks/notebook1.png",
+        "tipo": "Notebook",
+        "preco": 6.000,
+        "cor": "preto",
+        "marca": "apple"
+    },
+    {
+        "id": 11,
+        "nome": "Macbook pro branco",
+        "imagem": "/imgs/notebooks/notebook2.png",
+        "tipo": "Notebook",
+        "preco": 4.999,
+        "cor": "branco",
+        "marca": "apple"
+    },
+    {
+        "id": 12,
+        "nome": "Caixa de som JBL",
+        "imagem": "/imgs/eletronicos/caixasomJbl.png",
+        "tipo": "eletrônicos",
+        "preco": 250,
+        "cor": "azul",
+        "marca": "jbl"
+    },
+    {
+        "id": 13,
+        "nome": "Caixa de som JBL preto",
+        "imagem": "/imgs/eletronicos/caixasomJbl2.png",
+        "tipo": "eletrônicos",
+        "preco": 280,
+        "cor": "preto",
+        "marca": "jbl"
+    },
+    {
+        "id": 14,
+        "nome": "Fone de ouvido JBL",
+        "imagem": "/imgs/eletronicos/fone1.png",
+        "tipo": "eletrônicos",
+        "preco": 400,
+        "cor": "preto",
+        "marca": "jbl"
+    },
+    {
+        "id": 15,
+        "nome": "Fone de ouvido JBL",
+        "imagem": "/imgs/eletronicos/fone2.png",
+        "tipo": "eletrônicos",
+        "preco": 450,
+        "cor": "azul",
+        "marca": "jbl"
+    },
+    {
+        "id": 16,
+        "nome": "Fone de ouvido JBL",
+        "imagem": "/imgs/eletronicos/fone3.png",
+        "tipo": "eletrônicos",
+        "preco": 420,
+        "cor": "vermelho",
+        "marca": "jbl"
+    }
+    
+]

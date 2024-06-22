@@ -1,0 +1,30 @@
+
+[
+    {
+        "id": 1,
+        "nome": "Iphone 13 preto 64gb",
+        "imagem": "/imgs/smartphones/iphone1.png",
+        "tipo": "Smartphone",
+        "preco": 3.000,
+        "cor": "preto",
+        "marca": "apple"
+    },
+    {
+        "id": 2,
+        "nome": "Iphone 13 rosa 64gb",
+        "imagem": "/imgs/smartphones/iphone2.png",
+        "tipo": "Smartphone",
+        "preco": 2.999,
+        "cor": "rosa",
+        "marca": "apple"
+    },
+    {
+        "id": 3,
+        "nome": "Iphone 15 pro 64gb",
+        "imagem": "/imgs/smartphones/iphone3.png",
+        "tipo": "Smartphone",
+        "preco": 5.999,
+        "cor": "preto",
+        "marca": "apple"
+    }
+]

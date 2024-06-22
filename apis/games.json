@@ -1,0 +1,57 @@
+
+[
+    {
+        "id": 1,
+        "nome": "Manete xbox branco",
+        "imagem": "/imgs/games/videogames1.png",
+        "tipo": "Games",
+        "preco": 300,
+        "cor": "branco",
+        "marca": "xbox"
+    },
+    {
+        "id": 2,
+        "nome": "Manete xbox preto",
+        "imagem": "/imgs/games/videogame2.png",
+        "tipo": "Games",
+        "preco": 360,
+        "cor": "preto",
+        "marca": "xbox"
+    },
+    {
+        "id": 3,
+        "nome": "Manete xbox azul",
+        "imagem": "/imgs/games/videogame3.png",
+        "tipo": "Games",
+        "preco": 380,
+        "cor": "azul",
+        "marca": "xbox"
+    },
+    {
+        "id": 4,
+        "nome": "Manete xbox verde",
+        "imagem": "/imgs/games/videogame4.png",
+        "tipo": "Games",
+        "preco": 480,
+        "cor": "verde",
+        "marca": "xbox"
+    },
+    {
+        "id": 5,
+        "nome": "Manete ps5 vermelha",
+        "imagem": "/imgs/games/videogame5.png",
+        "tipo": "Games",
+        "preco": 5.800,
+        "cor": "vermelho",
+        "marca": "playstation"
+    },
+    {
+        "id": 6,
+        "nome": "Playstation 5 branco",
+        "imagem": "/imgs/games/videogame5.png",
+        "tipo": "Games",
+        "preco": 5.800,
+        "cor": "branco",
+        "marca": "playstation"
+    }
+]

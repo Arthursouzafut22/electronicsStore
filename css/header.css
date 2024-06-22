@@ -1,0 +1,85 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  grid-area: header;
+  gap: 20px;
+  padding: 20px 10px;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: clamp(200px, 100%, 400px);
+}
+
+#search {
+  font-size: 17px;
+  display: block;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+  border: 2px solid #ebf3ff;
+}
+
+#search:focus {
+  outline-color: #0055d6;
+}
+
+#buscar {
+  font-size: 17px;
+  font-weight: bold;
+  display: block;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  background-color: #0055d6;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-filter {
+  font-size: 17px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 10px;
+  padding: 10px;
+  border: 3px solid #0055d6;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.modal-price {
+  position: absolute;
+  top: 15%;
+  right: 4.5%;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  background-color: white;
+  border-radius: 10px;
+  z-index: 10;
+  padding: 10px;
+  width: clamp(100px, 100%, 145px);
+  box-shadow: 2px 5px 27px -8px rgba(204, 204, 204, 0.72);
+  animation: animeUp 0.50s forwards;
+}
+
+.modal-price.ativo {
+  display: flex;
+}
+
+.modal-price > button {
+  font-size: 15px;
+  padding: 3px 5px;
+  width: 100%;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #0055d6;
+  color: white;
+  border: none;
+}

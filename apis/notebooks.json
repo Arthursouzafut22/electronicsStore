@@ -1,0 +1,22 @@
+
+
+[
+    {
+        "id": 1,
+        "nome": "Macbook pro preto",
+        "imagem": "/imgs/notebooks/notebook1.png",
+        "tipo": "Notebook",
+        "preco": 6.000,
+        "cor": "preto",
+        "marca": "apple"
+    },
+    {
+        "id": 2,
+        "nome": "Macbook pro branco",
+        "imagem": "/imgs/notebooks/notebook2.png",
+        "tipo": "Notebook",
+        "preco": 4.999,
+        "cor": "branco",
+        "marca": "apple"
+    }
+]

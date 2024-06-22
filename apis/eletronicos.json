@@ -1,0 +1,50 @@
+
+
+[
+    {
+        "id": 1,
+        "nome": "Caixa de som JBL",
+        "imagem": "/imgs/eletronicos/caixasomJbl.png",
+        "tipo": "eletrônicos",
+        "preco": 250,
+        "cor": "azul",
+        "marca": "jbl"
+    },
+    {
+        "id": 2,
+        "nome": "Caixa de som JBL preto",
+        "imagem": "/imgs/eletronicos/caixasomJbl2.png",
+        "tipo": "eletrônicos",
+        "preco": 280,
+        "cor": "preto",
+        "marca": "jbl"
+    },
+    {
+        "id": 3,
+        "nome": "Fone de ouvido JBL",
+        "imagem": "/imgs/eletronicos/fone1.png",
+        "tipo": "eletrônicos",
+        "preco": 400,
+        "cor": "preto",
+        "marca": "jbl"
+    },
+    {
+        "id": 4,
+        "nome": "Fone de ouvido JBL",
+        "imagem": "/imgs/eletronicos/fone2.png",
+        "tipo": "eletrônicos",
+        "preco": 450,
+        "cor": "azul",
+        "marca": "jbl"
+    },
+    {
+        "id": 5,
+        "nome": "Fone de ouvido JBL",
+        "imagem": "/imgs/eletronicos/fone3.png",
+        "tipo": "eletrônicos",
+        "preco": 420,
+        "cor": "vermelho",
+        "marca": "jbl"
+    }
+    
+]

@@ -1,0 +1,91 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  grid-area: nav;
+  /* border: 1px solid; */
+  padding: 30px 10px;
+}
+
+.btn-global {
+  font-size: 17px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 5px;
+  width: 100%;
+  /* margin-top: 82px; */
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: transparent;
+  /* border: none; */
+  border: 4px solid #ebf3ff;
+  /* border: 2px solid #0055D6; */
+}
+
+.container {
+  margin-top: 8px;
+  /* border: 2px solid #0055D6; */
+  padding: 10px;
+  border-radius: 8px;
+  display: none;
+  width: 100%;
+  animation: animeUp 0.5s forwards;
+  box-shadow: 2px 5px 27px -8px rgba(204, 204, 204, 0.72);
+}
+
+.categoria.ativo {
+  display: block;
+}
+
+.container-check {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.container-check input[type="checkbox"] {
+  cursor: pointer;
+  transform: scale(1.5);
+  border: 2px solid #ebf3ff;
+}
+
+.marcas.ativo {
+  display: block;
+}
+
+.cores.ativo {
+  display: block;
+}
+
+.seta {
+  display: block;
+  max-width: 15px;
+}
+
+.seta.ativo {
+  animation: setaUp 0.5s forwards;
+}
+
+@keyframes setaUp {
+  from {
+    transform: rotate(360deg);
+  }
+  to {
+    transform: rotate(180deg);
+  }
+}
+
+@keyframes animeUp {
+  from {
+    opacity: 0;
+    transform: translateY(-30%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
