@@ -5,7 +5,7 @@
         "nome": "Iphone 13 preto 64gb",
         "imagem": "/imgs/smartphones/iphone1.png",
         "tipo": "Smartphone",
-        "preco": 3.000,
+        "preco": 3000,
         "cor": "preto",
         "marca": "apple"
     },
@@ -25,6 +25,15 @@
         "tipo": "Smartphone",
         "preco": 5.999,
         "cor": "preto",
+        "marca": "apple"
+    },
+    {
+        "id": 4,
+        "nome": "Iphone 15 pro branco",
+        "imagem": "/imgs/smartphones/iphone4.png",
+        "tipo": "Smartphone",
+        "preco": 6000,
+        "cor": "branco",
         "marca": "apple"
     }
 ]

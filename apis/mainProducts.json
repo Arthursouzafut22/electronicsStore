@@ -40,7 +40,7 @@
         "nome": "Manete ps5 vermelha",
         "imagem": "/imgs/games/videogame5.png",
         "tipo": "Games",
-        "preco": 5.800,
+        "preco": 800,
         "cor": "vermelho",
         "marca": "playstation"
     },
@@ -49,7 +49,7 @@
         "nome": "Playstation 5 branco",
         "imagem": "/imgs/games/manetePs5.png",
         "tipo": "Games",
-        "preco": 5.800,
+        "preco": 800,
         "cor": "branco",
         "marca": "playstation"
     },
@@ -58,7 +58,7 @@
         "nome": "Iphone 13 preto 64gb",
         "imagem": "/imgs/smartphones/iphone1.png",
         "tipo": "Smartphone",
-        "preco": 3.000,
+        "preco": 3000,
         "cor": "preto",
         "marca": "apple"
     },
@@ -85,7 +85,7 @@
         "nome": "Macbook pro preto",
         "imagem": "/imgs/notebooks/notebook1.png",
         "tipo": "Notebook",
-        "preco": 6.000,
+        "preco": 6000,
         "cor": "preto",
         "marca": "apple"
     },
@@ -142,6 +142,32 @@
         "preco": 420,
         "cor": "vermelho",
         "marca": "jbl"
+    },
+    {
+        "id": 17,
+        "nome": "Playstation 5 branco",
+        "imagem": "/imgs/games/videogame6.png",
+        "tipo": "Games",
+        "preco": 5000,
+        "cor": "branco",
+        "marca": "playstation"
+    },
+    {
+        "id": 18,
+        "nome": "Xbox one s branco",
+        "imagem": "/imgs/games/gameXboxOne.png",
+        "tipo": "Games",
+        "preco": 3000,
+        "cor": "branco",
+        "marca": "xbox"
+    },
+    {
+        "id": 19,
+        "nome": "Iphone 15 pro branco",
+        "imagem": "/imgs/smartphones/iphone4.png",
+        "tipo": "Smartphone",
+        "preco": 6000,
+        "cor": "branco",
+        "marca": "apple"
     }
-    
 ]

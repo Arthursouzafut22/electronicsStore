@@ -6,7 +6,7 @@
         "nome": "Macbook pro preto",
         "imagem": "/imgs/notebooks/notebook1.png",
         "tipo": "Notebook",
-        "preco": 6.000,
+        "preco": 6000,
         "cor": "preto",
         "marca": "apple"
     },

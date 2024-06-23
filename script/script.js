@@ -10,6 +10,7 @@
 // clickFilter();
 
 
+// CODIGO EM DESENVOLVIMENTO....
 
 
 
@@ -138,7 +139,7 @@ const urls = await Promise.all([
 }).then(resposta => arraysApis.push(...resposta));
 
 
-
+// LISTAR PRODUTOS ABAIXO....
 
 
 function listItems(items) {
@@ -186,9 +187,24 @@ function cardItems(item) {
         <img src="${item.imagem}" alt="" class="img-product">
         <p>${item.nome}</p>
         <p>${item.tipo}</p>
-        <p>${item.preco}</p>
+        <p>${fomatarValue(item.preco)}</p>
       </div>`
 }
+
+
+
+// FORMATA MOEDA EM REAL....
+
+function fomatarValue(value) {
+   return Intl.NumberFormat("pt-BR",{
+      style: "currency",
+      currency: "BRL",
+      minimumFractionDigits: 2,
+      maximumFractionDigits: 8,
+   }).format(value);
+
+}
+
 
 
 // FUNCOES FILTRO DE MARCA ABAIXO....
@@ -219,6 +235,7 @@ function filterBrand(marca) {
    const filterMarca = newArray.filter((item) => {
       return item.marca === marca;
    })
+
    listItems(filterMarca);
 }
 
@@ -246,6 +263,7 @@ function filterColor(color) {
    const filterCor = newArray.filter((item) => {
       return item.cor === color;
    })
+
    listItems(filterCor);
 }
 

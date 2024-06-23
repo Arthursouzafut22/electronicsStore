@@ -41,7 +41,7 @@
         "nome": "Manete ps5 vermelha",
         "imagem": "/imgs/games/videogame5.png",
         "tipo": "Games",
-        "preco": 5.800,
+        "preco": 800,
         "cor": "vermelho",
         "marca": "playstation"
     },
@@ -50,8 +50,26 @@
         "nome": "Playstation 5 branco",
         "imagem": "/imgs/games/videogame5.png",
         "tipo": "Games",
-        "preco": 5.800,
+        "preco": 850,
         "cor": "branco",
         "marca": "playstation"
+    },
+    {
+        "id": 7,
+        "nome": "Playstation 5 branco",
+        "imagem": "/imgs/games/videogame6.png",
+        "tipo": "Games",
+        "preco": 5000,
+        "cor": "branco",
+        "marca": "playstation"
+    },
+    {
+        "id": 8,
+        "nome": "Xbox one s branco",
+        "imagem": "/imgs/games/gameXboxOne.png",
+        "tipo": "Games",
+        "preco": 3000,
+        "cor": "branco",
+        "marca": "xbox"
     }
 ]
